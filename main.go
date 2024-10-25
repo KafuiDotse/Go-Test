@@ -36,4 +36,6 @@ func main() {
 	} else {
 		fmt.Println(database)
 	}
+
+	Add()
 }
